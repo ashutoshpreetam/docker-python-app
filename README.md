@@ -11,7 +11,7 @@ I built a Docker image and ran it as a container to understand how applications 
 
 ## 2. Architecture
 
-![Architecture](https://raw.githubusercontent.com/ashutoshpreetam/docker-python-app/main/screenshots/architecture.png)
+![Architecture](screenshots/architecture.png)
 
 ---
 
